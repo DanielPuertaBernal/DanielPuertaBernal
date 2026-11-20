@@ -37,18 +37,6 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,arch,git,github,githubactions&perline=9" alt="Datos e infraestructura" />
 </p>
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [**hexfall**](https://github.com/DanielPuertaBernal/hexfall) | Juego de peleas 3D: magos en duelo sobre una isla flotante, de 1v1 a 1v3 contra IA. | Unity 6 · C# |
-| [**estadistica-3**](https://github.com/DanielPuertaBernal/estadistica-3) | Limpieza de datos, EDA y red neuronal que estima salarios. | Python · TensorFlow · Jupyter |
-| [**compilador**](https://github.com/DanielPuertaBernal/compilador) | Traduce una gramática escrita en español a código TypeScript. | Python |
-| [**omarchy-desktop-chibi**](https://github.com/DanielPuertaBernal/omarchy-desktop-chibi) | Mascota chibi que camina por tu escritorio de Omarchy/Hyprland. | QML |
-| [**reportes-app**](https://github.com/DanielPuertaBernal/reportes-app) | Convierte archivos Excel en gráficas interactivas. | TypeScript |
-| [**inventario-movil**](https://github.com/DanielPuertaBernal/inventario-movil) | App Android de inventario para un almacén. | Kotlin |
-| [**laboratorio-clusters**](https://github.com/DanielPuertaBernal/laboratorio-clusters) | Clúster con Docker Swarm. | Docker · Python |
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
