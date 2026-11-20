@@ -1,20 +1,24 @@
-<h1 align="center">Hola, soy Daniel Puerta 👋</h1>
-<h3 align="center">Ingeniero de Sistemas en formación · Desarrollo de software con IA · Universidad Católica de Oriente</h3>
+<h1 align="center">Hi, I'm Daniel Puerta 👋</h1>
+<h3 align="center">Systems Engineering student · AI-driven software development · Universidad Católica de Oriente</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Agentes+de+IA+y+LLMs+aplicados+al+desarrollo;Backend%2C+frontend+y+apps+m%C3%B3viles;Videojuegos+con+Unity+y+Rust+%2B+Bevy" alt="Typing SVG" />
+  <a href="README.es.md">🇪🇸 Leer en español</a>
 </p>
 
-## 👨🏻‍💻 Sobre mí
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+agents+and+LLMs+applied+to+software;Linux+servers%2C+Docker+and+clusters;Backend%2C+frontend+and+mobile+apps;Games+with+Unity+and+Rust+%2B+Bevy" alt="Typing SVG" />
+</p>
 
-- 🎓 Estudiante de Ingeniería de Sistemas en la **UCO** y practicante en el área de sistemas de la universidad.
-- 🤖 Trabajo a diario con **inteligencia artificial**: agentes de código, LLMs locales con **Ollama** y flujos con **MCP** para automatizar desarrollo y procesos.
-- 🧠 Construyo modelos de **machine learning** y redes neuronales con Python, TensorFlow y scikit-learn.
-- 🛠️ Desarrollo sistemas completos: backend, frontend, móvil, despliegue en servidores Linux con Docker y documentación con diseño guiado por el dominio (DDD).
-- 🎮 En mi tiempo libre hago videojuegos con **Unity** y **Rust + Bevy**.
-- 📫 Escríbeme a **danielpuerta5789@gmail.com**.
+## 👨🏻‍💻 About me
 
-## 🤖 Inteligencia artificial
+- 🎓 Systems Engineering student at **UCO** (Colombia) and intern in the university's IT department.
+- 🤖 I work with **artificial intelligence** every day: coding agents, local LLMs with **Ollama** and **MCP** workflows to automate development and business processes.
+- 🧠 I build **machine learning** models and neural networks with Python, TensorFlow and scikit-learn.
+- 🛠️ I build complete systems: backend, frontend, mobile, deployment on Linux servers with Docker, and documentation based on domain-driven design (DDD).
+- 🎮 In my free time I make games with **Unity** and **Rust + Bevy**.
+- 📫 Reach me at **danielpuerta5789@gmail.com**.
+
+## 🤖 Artificial intelligence
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -25,11 +29,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- **Agentes de IA para desarrollo:** orquesto agentes de código con revisión, pruebas y memoria persistente.
-- **LLMs locales:** extracción asistida de datos desde documentos con modelos corriendo en Ollama.
-- **Machine learning:** red neuronal que estima salarios a partir de la encuesta de Stack Overflow ([estadistica-3](https://github.com/DanielPuertaBernal/estadistica-3)).
+- **AI agents for development:** I orchestrate coding agents with code review, testing and persistent memory.
+- **Local LLMs:** assisted data extraction from documents with models running on Ollama.
+- **Machine learning:** a neural network that estimates salaries from the Stack Overflow survey ([estadistica-3](https://github.com/DanielPuertaBernal/estadistica-3)).
 
-## ☁️ Servidores e infraestructura
+## ☁️ Servers and infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,35 +44,35 @@
 ![Gitea](https://img.shields.io/badge/Gitea_Actions-609926?style=for-the-badge&logo=gitea&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-- **Servidores Linux en producción:** despliego y mantengo aplicaciones de la universidad con Docker, Docker Compose y Portainer.
-- **Clústeres y manejo de carga:** clústeres con **Docker Swarm**, réplicas de servicios y balanceo de carga con su red de enrutamiento ([laboratorio-clusters](https://github.com/DanielPuertaBernal/laboratorio-clusters)).
-- **Proxies inversos y HTTPS** con **Nginx** y **Caddy** delante de los servicios.
-- **CI/CD** con Gitea Actions y GitHub Actions: pruebas, construcción de imágenes y despliegue.
-- **Servicios de apoyo:** almacenamiento compatible con S3 (MinIO), monitoreo de errores (GlitchTip) y automatizaciones (Windmill).
+- **Production Linux servers:** I deploy and maintain the university's applications with Docker, Docker Compose and Portainer.
+- **Clusters and load handling:** **Docker Swarm** clusters, service replicas and load balancing through its routing mesh ([laboratorio-clusters](https://github.com/DanielPuertaBernal/laboratorio-clusters)).
+- **Reverse proxies and HTTPS** with **Nginx** and **Caddy** in front of the services.
+- **CI/CD** with Gitea Actions and GitHub Actions: tests, image builds and deployments.
+- **Supporting services:** S3-compatible storage (MinIO), error monitoring (GlitchTip) and automations (Windmill).
 
-## 🛠 Tecnologías
+## 🛠 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,cs,rust,cpp,qt&perline=9" alt="Lenguajes" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,cs,rust,cpp,qt&perline=9" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,html,css,unity,androidstudio&perline=9" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,arch,git,github,githubactions&perline=9" alt="Datos e infraestructura" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,arch,git,github,githubactions&perline=9" alt="Data and infrastructure" />
 </p>
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielPuertaBernal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuertaBernal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DanielPuertaBernal&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielPuertaBernal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuertaBernal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielPuertaBernal&theme=tokyo-night&hide_border=true&area=true" alt="Gráfica de actividad" />
+  <img src="https://streak-stats.demolab.com?user=DanielPuertaBernal&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielPuertaBernal/DanielPuertaBernal/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielPuertaBernal&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DanielPuertaBernal/DanielPuertaBernal/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
