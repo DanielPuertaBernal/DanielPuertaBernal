@@ -10,7 +10,7 @@
 - 🎓 Estudiante de Ingeniería de Sistemas en la **UCO** y practicante en el área de sistemas de la universidad.
 - 🤖 Trabajo a diario con **inteligencia artificial**: agentes de código, LLMs locales con **Ollama** y flujos con **MCP** para automatizar desarrollo y procesos.
 - 🧠 Construyo modelos de **machine learning** y redes neuronales con Python, TensorFlow y scikit-learn.
-- 🛠️ Desarrollo sistemas completos: backend, frontend, móvil, despliegue con Docker y documentación con diseño guiado por el dominio (DDD).
+- 🛠️ Desarrollo sistemas completos: backend, frontend, móvil, despliegue en servidores Linux con Docker y documentación con diseño guiado por el dominio (DDD).
 - 🎮 En mi tiempo libre hago videojuegos con **Unity** y **Rust + Bevy**.
 - 📫 Escríbeme a **danielpuerta5789@gmail.com**.
 
@@ -28,6 +28,23 @@
 - **Agentes de IA para desarrollo:** orquesto agentes de código con revisión, pruebas y memoria persistente.
 - **LLMs locales:** extracción asistida de datos desde documentos con modelos corriendo en Ollama.
 - **Machine learning:** red neuronal que estima salarios a partir de la encuesta de Stack Overflow ([estadistica-3](https://github.com/DanielPuertaBernal/estadistica-3)).
+
+## ☁️ Servidores e infraestructura
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea_Actions-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+- **Servidores Linux en producción:** despliego y mantengo aplicaciones de la universidad con Docker, Docker Compose y Portainer.
+- **Clústeres y manejo de carga:** clústeres con **Docker Swarm**, réplicas de servicios y balanceo de carga con su red de enrutamiento ([laboratorio-clusters](https://github.com/DanielPuertaBernal/laboratorio-clusters)).
+- **Proxies inversos y HTTPS** con **Nginx** y **Caddy** delante de los servicios.
+- **CI/CD** con Gitea Actions y GitHub Actions: pruebas, construcción de imágenes y despliegue.
+- **Servicios de apoyo:** almacenamiento compatible con S3 (MinIO), monitoreo de errores (GlitchTip) y automatizaciones (Windmill).
 
 ## 🛠 Tecnologías
 
