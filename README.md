@@ -2,10 +2,6 @@
 <h3 align="center">Systems Engineering student · AI-driven software development · Universidad Católica de Oriente</h3>
 
 <p align="center">
-  <a href="README.es.md">🇪🇸 Leer en español</a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+agents+and+LLMs+applied+to+software;Linux+servers%2C+Docker+and+clusters;Backend%2C+frontend+and+mobile+apps;Games+with+Unity+and+Rust+%2B+Bevy" alt="Typing SVG" />
 </p>
 
